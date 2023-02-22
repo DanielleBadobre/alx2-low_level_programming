@@ -4,7 +4,7 @@
 /**
  * print_alphabet - Prints the alphabet in lowercase
  *
- * @letter: alphabet character to print
+ * Description - incremnts and print letters
  */
 void print_alphabet(void)
 {
