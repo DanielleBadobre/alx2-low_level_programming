@@ -4,7 +4,7 @@
 * @dest: string with concatenation
 * @src: string to be concatena
 * @n: size of second string
-* 
+*
 * Return: Always 0.
 */
 char *_strncpy(char *dest, char *src, int n)
