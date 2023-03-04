@@ -20,6 +20,7 @@ void print_number(int n)
 	{
 		temp = n;
 	}
+	
 	number = temp;
 
 	while (number >= 10)
